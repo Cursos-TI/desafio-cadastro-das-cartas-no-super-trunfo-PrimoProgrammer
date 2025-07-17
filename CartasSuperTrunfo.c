@@ -10,7 +10,7 @@ int main() {
     #include <stdio.h>
 
 int main(){ char estado[10]; char codigodacarta[10]; char nomedacidade[15]; int populacao; float areaemkm2; float pib; int numerodepontosturisticos;
-
+printf("Novo commit \n")
 printf("Estado: \n");
 scanf("%s", &estado);
 
